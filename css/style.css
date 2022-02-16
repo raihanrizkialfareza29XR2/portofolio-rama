@@ -1,0 +1,114 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text {
+    margin-top: 180px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.text h2 {
+    font-size: 42px;
+    text-transform: uppercase;
+}
+
+.list {
+    margin-top: 200px;
+}
+
+.text p {
+    color: #000;
+    margin-top: 20px;
+    font-size: 20px;
+    /* margin-bottom: 20px; */
+    line-height: 30px;
+}
+
+.btn-contact {
+    color: #000;
+    font-size: 28px;
+    width: 280px;
+    height: 64px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background: #fff;
+    border: solid 5px #000;
+    transition: .3s;
+}
+
+.btn-contact:hover {
+    border: solid 5px #878383;
+    background: #000;
+    color: #fff;
+}
+
+.about {
+    margin-top: 200px;
+}
+
+.about p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+hr {
+    border: none;
+    background-color: #070025;
+    height: 3px;
+}
+
+#skills {
+    margin-top: 200px;
+}
+
+.skill-icon {
+    display: block !important;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.skill-img {
+    display: block !important;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.skills-box-sec {
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 200px;
+}
+
+.skills-box {
+    width: 200px;
+    height: 200px;
+    background: #070025;
+    color: #fff;
+    border-radius: 20px;
+    border: 1px solid #878383;
+}
+
+.skill-text {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
+
+.skill-desc {
+    text-align: center;
+}
+
+#contact {
+    margin-top: 200px;
+}

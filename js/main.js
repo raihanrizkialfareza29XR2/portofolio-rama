@@ -1,0 +1,2 @@
+AOS.init({ disable: 'mobile' });
+
